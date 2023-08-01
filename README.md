@@ -13,6 +13,8 @@ Hi there, I'm a fullstack developer/student. My expertise relies on React.js and
 
 <br>
 
+[![Julio Moraes Github States](https://github-readme-stats.vercel.app/api?username=ThiagoMarvinSoares&show_icons=true&theme=dracula)](https://github.com/ThiagoMarvinSoares/github-readme-stats)
+
 <div align="center">
   <p>
     Checkout my Linkedin
@@ -27,9 +29,15 @@ Hi there, I'm a fullstack developer/student. My expertise relies on React.js and
   </a>
 </div>
 
+<h3>Top languages</h3>
+
+[![Julio Moraes Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMarvinSoares&layout=compact)](https://github.com/ThiagoMarvinSoares/github-readme-stats)
+
+
 <br>
 
 <div>
+  <h3>Technologies I use for coding</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -42,18 +50,6 @@ Hi there, I'm a fullstack developer/student. My expertise relies on React.js and
 
 I speak English and Portuguese.
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-Technologies I use for coding
-React Nodejs TypeScript github actions Insomnia redux Sass Styled Components git NestJs html5 Prettier MongoDB
-
-Featured Projects
-🎁 Projects	⭐ Stars	📚 Tech Stack	⌛ Development Time	🔗 Website deploy link	⭕ Status
-Portfolio	Stars	React	2~3 Months	Portfolio	✅
-Aprendendo codando	Stars	ReactNodejs MongoDB	9 months	Aprendendo codando	✅
-Contact
-LinkedIn
 
 
 </div>
