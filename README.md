@@ -47,6 +47,7 @@ Hi there, I'm a fullstack developer/student. My expertise relies on React.js and
 <br>
 
   Checkout a website i made using WordPress: https://querovenderminhaempresa.com / https://casaraodaspeliculas.com.br
+  
   Also checkout this Web App: https://casaraoinvoice.vercel.app
 
 I speak English and Portuguese.
