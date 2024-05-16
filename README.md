@@ -50,7 +50,7 @@ Hi there, I'm a fullstack developer. My expertise relies on React.js and node.js
   
   Also checkout this Web App: https://casaraoinvoice.vercel.app
 
-I speak English and Portuguese + learning corean.
+I speak English and Portuguese + learning Corean.
 
 
 
