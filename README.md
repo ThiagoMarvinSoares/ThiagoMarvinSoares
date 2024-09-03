@@ -40,7 +40,7 @@ Hi there, I'm a fullstack developer. My expertise relies on React.js and node.js
   <h3>Technologies I use for coding</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,react,flask,tailwind" />
+      <img src="https://skillicons.dev/icons?i=nextjs,ubuntu,git,react,flask,tailwind" />
     </a>
   </p>
 </div>
