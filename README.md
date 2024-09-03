@@ -38,7 +38,11 @@ Hi there, I'm a fullstack developer. My expertise relies on React.js and node.js
 
 <div>
   <h3>Technologies I use for coding</h3>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    </a>
+  </p>
 </div>
 <br>
 
