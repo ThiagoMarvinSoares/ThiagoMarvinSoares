@@ -3,7 +3,7 @@
   
 <br>
   
-Hi there, I'm a fullstack developer. My expertise relies on React.js and node.js
+Hi there, I'm a fullstack developer. My expertise relies on Next.js and node.js
 
 <br>
 
