@@ -46,11 +46,9 @@ Hi there, I'm a fullstack developer. My expertise relies on Next.js and node.js
 </div>
 <br>
 
-  Checkout a website i made using WordPress: https://querovenderminhaempresa.com / https://casaraodaspeliculas.com.br
-  
-  Also checkout this Web App: https://casaraoinvoice.vercel.app
+  Currently Working at a <a href="https://kryptontech.com.br/">Krypton Tech<a/> and <a href="https://fuzz.global/">Fuzz Global<a/>
 
-I speak English and Portuguese + learning Corean.
+I speak English and Portuguese + learning Italian.
 
 
 
