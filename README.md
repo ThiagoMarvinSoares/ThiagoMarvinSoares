@@ -31,7 +31,7 @@ Hi there, I'm a fullstack developer. My expertise relies on Next.js and node.js
 
 <h3>Top languages</h3>
 
-[![Julio Moraes Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMarvinSoares&layout=compact)](https://github.com/ThiagoMarvinSoares/github-readme-stats)
+[![Thiago Marvin](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMarvinSoares&layout=compact)](https://github.com/ThiagoMarvinSoares/github-readme-stats)
 
 
 <br>
