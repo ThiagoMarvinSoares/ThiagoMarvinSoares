@@ -46,7 +46,7 @@ Hi there, I'm a fullstack developer. My expertise relies on Next.js and node.js
 </div>
 <br>
 
-  Currently Working at a <a href="https://kryptontech.com.br/">Krypton Tech<a/> and <a href="https://fuzz.global/">Fuzz Global<a/>
+  Currently Working at a <a target="_blank" href="https://kryptontech.com.br/">Krypton Tech<a/> and <a target="_blank" href="https://fuzz.global/">Fuzz Global<a/>
 
 I speak English and Portuguese + learning Italian.
 
