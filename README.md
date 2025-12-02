@@ -13,8 +13,6 @@ Hi there, I'm a fullstack developer. My expertise relies on Next.js and node.js
 
 <br>
 
-[![Julio Moraes Github States](https://github-readme-stats.vercel.app/api?username=ThiagoMarvinSoares&show_icons=true&theme=dracula)](https://github.com/ThiagoMarvinSoares/github-readme-stats)
-
 <div align="center">
   <p>
     Checkout my Linkedin
