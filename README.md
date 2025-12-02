@@ -40,7 +40,7 @@ Hi there, I'm a fullstack developer. My expertise relies on Next.js and node.js
 </div>
 <br>
 
-  Currently Working at a <a target="_blank" href="https://app.neilpatel.com/">Uber Suggest<a/> and <a target="_blank" href="https://answerthepublic.com">Aswer the public<a/>
+  Currently Working at a <a target="_blank" href="https://app.neilpatel.com/">Uber Suggest<a/> and <a target="_blank" href="https://answerthepublic.com">AnswerThePublic<a/>
 
 I speak English and Portuguese + learning Italian.
 
