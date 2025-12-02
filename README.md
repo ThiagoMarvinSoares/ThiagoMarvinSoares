@@ -27,10 +27,6 @@ Hi there, I'm a fullstack developer. My expertise relies on Next.js and node.js
   </a>
 </div>
 
-<h3>Top languages</h3>
-
-[![Thiago Marvin](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMarvinSoares&layout=compact)](https://github.com/ThiagoMarvinSoares/github-readme-stats)
-
 
 <br>
 
@@ -44,7 +40,7 @@ Hi there, I'm a fullstack developer. My expertise relies on Next.js and node.js
 </div>
 <br>
 
-  Currently Working at a <a target="_blank" href="https://kryptontech.com.br/">Krypton Tech<a/> and <a target="_blank" href="https://fuzz.global/">Fuzz Global<a/>
+  Currently Working at a <a target="_blank" href="https://app.neilpatel.com/">Uber Suggest<a/> and <a target="_blank" href="https://answerthepublic.com">Aswer the public<a/>
 
 I speak English and Portuguese + learning Italian.
 
