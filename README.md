@@ -30,14 +30,14 @@ Hi there, I'm a fullstack developer. My expertise relies on Next.js and node.js
 
 <br>
 
-<div>
+<!-- <div>
   <h3>Technologies I use for coding</h3>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nextjs,ubuntu,git,react,flask,tailwind" />
     </a>
   </p>
-</div>
+</div> -->
 <br>
 
   Currently Working at a <a target="_blank" href="https://app.neilpatel.com/">Uber Suggest<a/> and <a target="_blank" href="https://answerthepublic.com">AnswerThePublic<a/>
